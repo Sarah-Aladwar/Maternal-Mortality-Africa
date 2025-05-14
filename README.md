@@ -65,7 +65,20 @@ All data were obtained from the **World Bank Open Data Portal**:
 
 ---
 
-## 📄 Full Report
+## 📁 Folder Structure
 
-See the complete analysis and visualizations in the report:  
-📎 **Maternal Mortality in Africa Analysis Report.pdf**
+```text
+📂 Maternal-Mortality-Africa/
+├── 📄 README.md
+├── 📂 Data/
+│   ├── 📑 Data Sources.md
+│   └── 🧮 Maternal Mortality Dataset.xlsx
+├── 📂 Analysis/
+│   └── 📉 Maternal Mortality in Africa Analysis.pbix
+├── 📂 Outputs/
+│   ├── 📈 Maternal Mortality in Africa Presentation.pdf
+│   └── 📊 Maternal Mortality in Africa Dashboard.pdf
+└── 📂 Visuals/
+    └── 🖼️ Dashboard Preview.png
+
+![Dashboard Preview](https://github.com/Sarah-Aladwar/Maternal-Mortality-Africa/raw/main/Visuals/Dashboard%20Preview.PNG)
